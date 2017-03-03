@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bylo nebylo. Neuveritelny pribeh , ktery se mozna i stal
+title: Bylo nebylo. Neuveritelny pribeh , ktery se mozna i stal!
 ---
 
 Jednou v noci jsem se sel projit se sankami az nahoru k lesu. Protoze krasne svitil mesic, chtel jsem si sjet celou sjezdovku az od zhora. Kdyz jsem ale byl v puli cesty, uvidel jsem v dalce svetelko. Ztuhnul jsem a dychal jsem jen melce, aby me nebylo slyset. Ve tme jsem najednou uvidel obrysy postavy. V ruce drzela...
