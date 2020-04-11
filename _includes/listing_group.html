@@ -1,0 +1,11 @@
+{% assign determinant=include.determinant %}
+{% for category in site.data.categories %}
+    {% if category[0] == determinant %}
+        <h1> {{category[0]}} </h1>
+        <h1> {{category}} </h1>
+        {% for tag in category[0].tag %}
+            <h1> {{tag}} </h1>
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+{% include listing_filter.html determinant=include.determinant value="Czech"%}

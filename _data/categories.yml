@@ -1,0 +1,29 @@
+authors: 
+  - tag: bara
+    display_name: Baruška
+    image_path: /images/cat.jpg
+  - tag: betty
+    display_name: Betty
+    image_path: /images/hedgehog.jpg
+  - tag: zuzka
+    display_name: Zuzka
+    image_path: /images/hedgehog.jpg
+  - tag: matej
+    display_name: Matěj
+    image_path: /images/hedgehog.jpg
+  - tag: honza
+    display_name: Honza
+    image_path: /images/hedgehog.jpg
+languages:
+  - tag: czech
+    display_name: Czech
+    image_path: /images/george.jpg
+  - tag: german
+    display_name: German
+    image_path: /images/george.jpg
+  - tag: english
+    display_name: English
+    image_path: /images/george.jpg
+homeworks:
+  
+

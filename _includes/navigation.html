@@ -1,0 +1,39 @@
+<nav class="animenu">
+    <ul class="animenu__nav">
+        {% for parent in site.data.categories %}
+        {% assign parentName = {{parent[0]}} %}
+        {% assign link = "/navigation/" | append: parentName | append: "/" %}
+        {% assign class = "" %}
+        {% if link == page.url %}
+            {% assign class = class | append: " active" %}
+        {% endif %}
+        <li>
+            <a href="{{link}}" class="{{ class }}">{{parentName}}</a>
+            <ul class="animenu__nav__child">
+                {% for child in parent[1] %}
+                {% if child.display_name != null %}
+                    {% assign displayName = {{child.display_name}} %}
+                {% else %}
+                    {% assign displayName = {{child.tag}} %}
+                {% endif %}
+                {% assign sublink = "/navigation/" | append: parentName | append: "/" | append: {{child.tag}} | append: "/" %}
+                {% assign class = "" %}
+                {% if sublink == page.url %}
+                    {% assign class = class | append: " active" %}
+                {% endif %}
+                <li><a href="{{sublink}}">{{displayName}}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% endfor %}
+        <li class="hero_search">
+            {% include search.html add_id=true %}
+        </li>
+    </ul>
+    <button class="animenu__toggle">
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+        <span class="animenu__toggle__bar"></span>
+    </button>
+</nav>
+

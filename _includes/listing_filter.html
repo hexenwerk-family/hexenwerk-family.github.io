@@ -1,0 +1,5 @@
+{% assign determinant=include.determinant %}
+{% assign value=include.value %}
+{% assign posts = site.posts | where: {{determinant}}, {{value}} | sort: "date" | reverse %}
+<h2>{{determinant}} {{value}}<span class="count">({{ posts | size }})</span></h2>
+{% include listings.html listings=posts %}

@@ -1,0 +1,16 @@
+---
+author: Betty
+language: German
+date: 2017-03-08
+title: povídka
+categories:
+tags:
+description: povídka na volné téma 
+type: Document
+---
+## Kapitola 1 - hurá k vodě
+Jednou jsem se s mýma rodičema šla koupat. Zabalila jsem si plavky a ručník a šli jsme. Když jsme tam dorazili nikdo tam nebyl. Vlezla jsem do vody a najednou mě něco začalo tahat za nohy. Když jsem měla hlavu ve vodě, viděla jsem mrtvé lidi kteří už byli utopení. Naštěstí mě ta příšera už neudržela, takže mě pustila a mohla jsem se nadechnout. Byla jsem v takovém šoku a moji rodiče také že jsme raději šli pryč. Potom jsme se rozhodli, že tedy půjdeme do lesa na jahody,ostružiny,borůvky a maliny. šli jsme a natrhali 30 malin,30 ostružin,30 jahod a 30 borůvek. Když jsme se vrátili domů, máma nakrájela všechno co jsme natrhali, dala nám to do mističky. Každý dostal od všeho 10. Potom jsme si to zbaštili a šli jsme spát. Spala jsem a zdálo jse mi, že se koupu a najednou mě ta příšera stáhla do vody a utopila mě. 
+
+## Kapitola 2 - Probuzení
+
+Potom už bylo ráno a já jsem vstala,vyčistila jsem si zuby,oblékla jsem se,učesala  a šla jsem si hrát na naší zahradu. Byli tam i jiní lidé a o něčem si  povídali. Povídali si o  pokladu, nechali tam mapu, tak jsem ji sebrala a začala jsem hledat. Hledala jsem všude kde mi ta mapa ukázala že mám hledat. Uviděla jsem nějakou truhlu myslela jsem si, že je to ten poklad. Když jsem  truhlu otevřela, byly uvnitř jenom listy. Hledala jsem dál a dál a dál. Až najednou jsem našla další, truhlu chtěla jsem ji otevřít, ale nešlo to. Potom jsem zjistila, že je zamčená, podívala jsem se na mapu a viděla, že tam je napsáno -musíte najít klíč.Hledala jsem na stromě v takové škvírce, všude, ale klíč jsem nenašla. Poté jsem do truhly kopla, už jsem chtěla jít pryč, ale truhla se obrátila a tam byl ten klíč. Vzala, jsem ho odemkla jsem truhlu a co nevidím- bylo tam samé zlato. Byly tam dokonce dámské a pánské kroje a jak jsem tam hrabala,našla jsem červený amulet. Najednou začal blikat (blik blik blik) a stáhl mě dovnitř. Najednou jsem byla u moře, viděla jsem pirátské lodě. Jedna loď ke mě připlula a kapitán od té lodě řekl, že jsem jeho přítel, protože ten amulet dřív byl jeho a že přinese štěstí. Potom jsem byla zase na naší zahrádce. Poklad jsem schovala na půdu a vzala si amulet na krk. Chtěla jsem vědět, co mi ten amulet udělá za štěstí. Dokonce jsem s ním spala. Ráno jsem vstala a chtěla vědět, jestli mi amulet přinese štěstí, aby mě ta vodní příšera už nestáhla do vody. Tak jsem tedy šla, zabalila si ručník a plavky a šla se koupat. Když jsem tam dorazila, trošku jsem se bála, že se to nepovede. Oblékla jsem si plavky a šla jsem plavat. Najednou jsem zjistila, že mě nikdo do vody netahá. Takže jsem si tam plavala půl hodiny, potom jsem musela jít na oběd. Zase sme měli lívance s jahodama a se šlehačkou. Bylo to tak dobrý že jsem si přidala. Potom jsem šla na procháku a viděla jsem,že nějaká vrána kráká na celou ulici a nechtěla stím přestat. Tak jsem si vzala svúj šátek na kterym bylo višitý B jako Betty. Pak jsem ten šátek vzala a zavázala jsem tý vráně zobák. Naštěstí už přestala krákat tak že jsem ji ten zobák rozvázala.
