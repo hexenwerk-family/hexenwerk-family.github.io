@@ -10,5 +10,5 @@ type: Document
 
 Mám kamaráda Filipa. A ten mě pozval na čajovou párty. Jeho táta je hostinský. Je moc milý a pěstuje na zahrádce sušenky. Třeba FIDORKY a BRUMÍKY. A pili jsme sušenkový čaj.
 
- ![obrázek blížícího se meteoritu](/images/matej/170427_Matej_SusenkovaParty.jpg)
+ ![obrázek blížícího se meteoritu](../images/matej/170427_Matej_SusenkovaParty.jpg)
  
